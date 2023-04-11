@@ -1,0 +1,4 @@
+﻿interface INalog
+{
+    double Nalog();
+}
